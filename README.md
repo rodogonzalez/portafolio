@@ -1,18 +1,18 @@
 # portafolio
 
-#Critical Mass
+# Critical Mass
 Senior Fullstack Developer ( September 2022 – July 2024)
 Wordpress, Drupal, Laravel, Symphony, multiple PHP support, Adobe AEM, Javascript, CSS3-BEM, Sass, October CMS, Pantheom. platform.sh . I was responsible for various tasks related to both front-end and back-end development using common front end and backend technologies including HTML, Javascript and PHP
 
 ____________________________________________________________________
-#QAT Global
+# QAT Global
 Senior PHP Developer (Dec 2021 – June 2022)
 My responsibilities are focus in provide solutions developed for a custom client using technologies as Laravel, MS-SQL
 Server, AWS and also provide a guide to my team in the way how to implement the project using the potential of the
 frameworks used .
 
 ____________________________________________________________________
-#CRSS, Costa Rica Software Services 
+# CRSS, Costa Rica Software Services 
 Costa Rica, Remote Work
 PHP Full Stack Developer (Ago 2020 – Nov 2021)
 Provide support to client site focus on luxury travels, I worked using Drupal 8 / 9 , MySQL, NPM, SASS, CSS, Twig,
@@ -23,7 +23,7 @@ I work with them for a short period time close to six months then I moved to oth
 CRM for handle fraud research and documents sensitive as credit card information. I worked using Laravel, VueJS, PHP,
 MySQL.
 ____________________________________________________________________
-#EX2 OutCoding 
+# EX2 OutCoding 
 Costa Rica, Remote Work
 PHP Full Stack Developer (July 2019-December 2019)
 I work with them for a contract period time of six months to develop specifically an online
@@ -32,7 +32,7 @@ located in USA, and some of the achievements with them were to finish the projec
 time, a lot of improvements in the users interfaces and site performance. We worked with
 Laravel and Wordpress.
 ____________________________________________________________________
-#Bamboo Coding 
+# Bamboo Coding 
 Costa Rica, Remote Work
 Full Stack Developer (December 2018 – until July 2019)
 I work with them as freelance , my tasks there were develop new products for some clients
@@ -40,7 +40,7 @@ of the company, We used some technologies/frameworks as vue, angular, Laravel an
 Wordpress
 
 ____________________________________________________________________
-#ByBSoft 
+# ByBSoft 
 Costa Rica, Remote Work
 Full Stack Developer (November 2013 – July 2018)
 I provided remote support and development of applications working from home with them.
@@ -72,7 +72,7 @@ PostgreSQL, MySQL, Git.
 
 
 ____________________________________________________________________
-#ROLOSA 
+# ROLOSA 
 San Jose, Costa Rica
 Freelance FullStack Developer (2014 – 2015)
 I worked for the for some specific projects as freelance as developer of the below websites and products:
@@ -102,7 +102,7 @@ Technologies: JAVA, Javascript, PHP, Drupal, CSS, Jquery, Certificates for Digit
 
 
 ____________________________________________________________________
-#Bluechip Athletic Solutions 
+# Bluechip Athletic Solutions 
 Costa Rica
 https://www.bluechipone.com/
 Full Stack Developer (January 2007 –December 2014)
@@ -134,7 +134,7 @@ Main tasks executed in the project:
 Technologies: ActionScript 3, Javascript, XML, PHP, MySQL, Akamai, Paypal 
 
 ____________________________________________________________________
-#MIAFILMS 
+# MIAFILMS 
 San Jose, Costa Rica
 WebDeveloper (April 2006 –December 2006)
 This is a publicity agency that create digital advertising, the owner of the company decided invest in a website
@@ -151,7 +151,7 @@ when it was launched.
 Technologies: PHP, JSON,XML, SmartyTemplates, MySQL, Apache, CSS.
 
 ____________________________________________________________________
-#University of Costa Rica 
+# University of Costa Rica 
 San Jose, Costa Rica
 WebDeveloper (January 2003 –December 2003)
 I worked there as professional in “Oplau” office, that department was responsible to review all the projects to
