@@ -1,5 +1,9 @@
 # portafolio
 
+Critical Mass
+Senior Fullstack Developer ( September 2022 – July 2024)
+Wordpress, Drupal, Laravel, Symphony, multiple PHP support, Adobe AEM, Javascript, CSS3-BEM, Sass, October CMS, Pantheom. platform.sh . I was responsible for various tasks related to both front-end and back-end development using common front end and backend technologies including HTML, Javascript and PHP
+
 ____________________________________________________________________
 QAT Global
 Senior PHP Developer (Dec 2021 – June 2022)
