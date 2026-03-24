@@ -1,5 +1,10 @@
 # portafolio
 
+# Acquia
+Technical Account Manager ( November 2024 – Current Position)
+Highly results-oriented and technically proficient professional with expertise in cloud infrastructure, digital experience platforms, and customer success management. Seeking to leverage a proven ability to build strong client relationships, drive platform adoption, and serve as a critical technical liaison for enterprise clients at Acquia. Committed to ensuring maximum value realization from Drupal and Acquia's DXP solutions by providing proactive guidance, technical escalations, and strategic roadmapping. 
+
+
 # Critical Mass
 Senior Fullstack Developer ( September 2022 – July 2024)
 Wordpress, Drupal, Laravel, Symphony, multiple PHP support, Adobe AEM, Javascript, CSS3-BEM, Sass, October CMS, Pantheom. platform.sh . I was responsible for various tasks related to both front-end and back-end development using common front end and backend technologies including HTML, Javascript and PHP
